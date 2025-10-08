@@ -32,3 +32,13 @@ volumes:
   etc-pihole:
   etc-dnsmasq.d:
 ```
+
+**Connect `pihole` Terminal and set admin password**
+
+```
+pihole setpassword
+```
+
+**Access the app**
+
+http://localhost:8081
